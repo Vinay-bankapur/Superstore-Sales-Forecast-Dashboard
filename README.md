@@ -30,13 +30,13 @@ This Power BI dashboard analyzes Superstore sales performance and predicts futur
 
 ## 📈 Dashboard
 
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard1.png)
 
 ---
 
 ## 📉 Forecast
 
-![Forecast](Dashboard 2.png)
+![Forecast](Dashboard1.png)
 
 ---
 
