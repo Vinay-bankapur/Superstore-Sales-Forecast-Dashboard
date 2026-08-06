@@ -28,18 +28,6 @@ This Power BI dashboard analyzes Superstore sales performance and predicts futur
 
 ---
 
-## 📈 Dashboard
-
-![Dashboard](Dashboard1.png)
-
----
-
-## 📉 Forecast
-
-![Forecast](Dashboard1.png)
-
----
-
 ## Key Insights
 
 - Highest Sales Region
